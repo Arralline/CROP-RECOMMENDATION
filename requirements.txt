@@ -1,0 +1,10 @@
+flask
+joblib
+pandas
+scikit-learn
+uvicorn
+fastapi
+pydantic
+xgboost
+lightgbm
+catboost
