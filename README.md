@@ -4,3 +4,14 @@ Crop recommendation is the process of suggesting the most suitable crops for a s
 
 
 ### Deployed Model Link Hoseted online: https://a0c0edb53ec67634a6.gradio.live
+
+#### Json Body
+{
+  "N": "<N>",
+  "P": "<P>",
+  "K": "<K>",
+  "temperature": "<temperature>",
+  "humidity": "<humidity>",
+  "pH": "<pH>",
+  "rainfall": "<rainfall>"
+}
