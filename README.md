@@ -4,6 +4,7 @@ Crop recommendation is the process of suggesting the most suitable crops for a s
 
 
 ### Deployed Model Link Hoseted online: https://a0c0edb53ec67634a6.gradio.live
+https://arralline-crop-recommendation-model.hf.space/?logs=container&__theme=system&deep_link=YW1dWzyFYq4
 
 #### Json Body
 {
